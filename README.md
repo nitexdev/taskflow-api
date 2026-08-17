@@ -2,6 +2,11 @@
 
 A project & task management REST API for freelancers — projects, tasks, priorities, and deadlines. Built with FastAPI, which auto-generates interactive Swagger documentation at `/docs`, so anyone can explore and test every endpoint straight from the browser.
 
+Live at : https://taskflow-api-vnzr.onrender.com/docs
+
+<img width="4476" height="4252" alt="taskflow-api-vnzr onrender com_docs" src="https://github.com/user-attachments/assets/447d913f-fd30-45e9-83b6-e73d43905458" />
+
+
 ## Stack
 
 FastAPI, SQLAlchemy, PostgreSQL, JWT auth (`python-jose`), `passlib`/`bcrypt` for password hashing.
